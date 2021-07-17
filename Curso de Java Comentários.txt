@@ -1,0 +1,73 @@
+Herança = herdar tudo que uma tela tem passar a ir para outra
+Encapsulamento= para deixar algo privado(private).
+
+Cometários
+
+// Este é um cometário de uma linha
+
+/* Nos comentário de muitas linhas podemos escrever o quanto
+ * quiser até indicarmos o final do comentário 
+*/
+/** Comentário para documentações*/
+
+Operadores em Java
+
+Aritméticos
+
++ Adição ou contatenação
+* multiplicação
+/ divisão
+% vai dar o resto da divisão
+- subtração
+
+Unários
+
+++ incremento
+-- decremento
+
+Classe Math
+
+PT - Constante rr - mathi.PI - 3,1415
+
+pow - Exponenciação - math.pow(5, 2) - 25
+
+sqrt - Raiz Quadrada - math.sqrt(25) - 5
+
+cbrt - Raiz Cúvica - math.cbtr(27) - 3
+
+Arrendondamentos
+
+abs - Valor Absoluto - Math.abs(-10) 10
+
+floor Arrendodamento para baixco - math.floo r(3.9) - 3
+
+ceil - Arrendondamento para cia - Math.ceil(4.2) - 5
+
+round - Arrendodamento aritmeticamente - Math.round(5.6) - 6
+
+OPERADOR TERNÁRIO
+
+Faz comporações compastas
+
+> Mario que 5> 2 true
+< Menor que 4<1 false
+>= Maior ou igual a 8>=3 true
+<= Menor ou igual a  6<= 6 true
+== igual a 9== 9 false
+!= Diferente de 4!=5 true
+
+OPERADORES LÓGICOS
+
+&& .E.E true && false false
+|| OU false ||true true
+^ XOU trude ^ treu false
+! NO !false true
+
+ESTRUTURA CONDICIONAIS
+
+if
+else
+while
+Comando continue(Interroper o laço e não mostras a sequencia na tela)
+Comando break (
+
